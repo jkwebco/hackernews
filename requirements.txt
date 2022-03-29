@@ -44,7 +44,7 @@ jsonschema==3.2.0
 Markdown==3.2
 mistune==0.8.4
 mysql-connector==2.2.9
-paramiko==2.7.1
+paramiko==2.10.1
 parso==0.6.1
 pathspec==0.7.0
 pexpect==4.8.0
